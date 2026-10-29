@@ -1,5 +1,5 @@
 # neumorphism-calculator
-A neumorphism-styled calculator built using HTML, CSS, and JavaScript, featuring dark and light theme support with smooth UI interactions.
+this is the imporve file of A neumorphism-styled calculator built using HTML, CSS, and JavaScript, featuring dark and light theme support with smooth UI interactions.
 
 # Neumorphism Calculator 🧮
 
